@@ -1,0 +1,11 @@
+{
+    "require": {
+        "minishlink/web-push": "^1.4",
+        "php-di/php-di": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "DieMayrei\\SwPushTest\\": "src/"
+        }
+    }
+}
